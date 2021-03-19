@@ -1,0 +1,41 @@
+﻿  rainbow_table.cpp
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\file_encrypt_system.h(2,10): fatal error C1083: 无法打开包括文件: “openssl/crypto.h”: No such file or directory
+  rsa.cpp
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\gmp.h(2126,31): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(23,29): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(5,17): warning C4101: “end”: 未引用的局部变量
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(5,10): warning C4101: “start”: 未引用的局部变量
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(38,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(67,29): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\rsa.cpp(305,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  spn_analysis.cpp
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(6,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(5,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(25,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(95,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(94,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_analysis.cpp(119,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  main.cpp
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\gmp.h(2126,31): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\file_encrypt_system.h(2,10): fatal error C1083: 无法打开包括文件: “openssl/crypto.h”: No such file or directory
+  SPN.cpp
+  spn_plus.cpp
+  spn_randtest.cpp
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(18,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(19,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(67,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(68,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(119,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+F:\个人文件\密码学课程设计\IS1703_罗睿智_U201714548\IS1703_罗睿智_U201714548\Cryptography\Cryptography\spn_randtest.cpp(120,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  正在生成代码...
